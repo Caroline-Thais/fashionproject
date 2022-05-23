@@ -48,3 +48,62 @@ section {
 section h1 {
   margin-bottom: 2%;
 }
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  text-align: center;
+  gap: 12px;
+  margin-top: 8%;
+  margin-bottom: 8%;
+
+}
+
+.gallery p {
+  color: rgb(45, 44, 44);
+  letter-spacing: 2px;
+  margin: 2%;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.about {
+  background-image: url(./images/bg_detalhe.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+  height: 100vh;
+  background-size: 98%;
+  color: white;
+  padding: 10%;
+  box-sizing: border-box;
+  font-size: larger;
+}
+
+.about h1 {
+  margin-bottom: 2%;
+  text-transform: uppercase;
+}
+
+.contact {
+  text-transform: uppercase;
+  color: rgb(45, 44, 44);
+  font-size: x-large;
+  font-weight: bold;
+  text-align: center;
+  width: 98%;
+  margin: 8%;
+
+}
+
+footer {
+  background-color: rgb(45, 44, 44);
+  color: rgb(187, 173, 173);
+  width: 94%;
+  padding: 30% auto;
+
+}
