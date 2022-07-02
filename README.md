@@ -6,8 +6,4 @@ Landing page developed with HTML and CSS.
 ![foto3](https://user-images.githubusercontent.com/76595905/170382373-318c3054-6b6c-476d-aabe-d089bf5ea01d.png)
 ![foto4](https://user-images.githubusercontent.com/76595905/170382379-94ec72ee-9d7c-44e5-af18-31bdde28dc28.png)
 
----
-<div align="center">
-<!--Developed by-->Desenvolvido por THAÍS CAROLINE SILVA 
-<img src="https://cdn-icons-png.flaticon.com/512/2618/2618497.png" height="40em"> 
-</div>
+
